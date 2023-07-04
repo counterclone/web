@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(75, 59, 59);
+}
+h1{
+    color: rgb(48, 136, 48);
+    text-decoration: wavy;
+    border: 3px solid blue;
+    display: inline-block;
+    margin-inline-start: 700px;
+}
+button{
+    background-color: whitesmoke;
+    border: 5px solid brown;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    
+}
+#p1{
+    color: green;
+}
+#p2{
+    color : orangered;
+}
+h2{
+    color: brown;
+}
+div{
+    margin-inline-start:  700px;
+}
+#ms{
+    margin-inline-start:  715px;
+    border : 7px solid grey;
+}
+img{
+    display: block;
+    margin-inline-start: 700px;
+    margin-bottom: 150px;
+    margin-top: 50px;
+}
